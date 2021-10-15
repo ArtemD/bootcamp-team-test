@@ -16,5 +16,7 @@ LUE TÄMÄ!!!!!!!!
 LUE TÄMÄ!!!!!!!!
 
 En lue. >:(
+
+Ok
 # Test
 This is a test line showing how git can automatically resolve merge conflicts
