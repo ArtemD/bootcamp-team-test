@@ -13,8 +13,6 @@ This is a test line showing how git can automatically resolve merge conflicts
 Testing GitHub with Bootcamp 2021 group
 Testimuutos
 LUE TÄMÄ!!!!!!!!
-
-<<<<<<< HEAD
 ♫ Can't push this ♫
 
 LUE TÄMÄ!!!!!!!!
