@@ -35,4 +35,4 @@ Ok
 # Test
 This is a test line showing how git can automatically resolve merge conflicts
 This is a test line showing how git can automatically resolve merge conflicts
-Eiköhän lähdetä syömään
+Eiköhän lähdetä syömään - JOOO!
