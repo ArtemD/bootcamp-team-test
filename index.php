@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php print('Yo!'); ?>
 <?php include_once("src/index.html"); ?>
 <!DOCTYPE html>
@@ -12,3 +13,10 @@
     
 </body>
 </html>
+=======
+<?php include_once("src/index.html"); ?>
+
+
+<?php echo ("eehele"); ?>
+
+>>>>>>> 0d83aa7a7cb6955f78ec2d1ccf4c4e8767930cd1
