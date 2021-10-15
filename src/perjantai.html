@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #screenText{
+            font-size:0vh;
+            white-space: nowrap;
+            vertical-align: middle;
+        }
+    </style>
+</head>
+<body>
+    <div id="screenText">
+        <div>
+            Mitä CSS ja HTML lähtivät etsimään munkkiluostarista?
+        </div>
+        <div>
+            -Elämälleen funktiota
+        </div>
+        <div>
+            Hyvää perjantaita
+        </div>
+    </div>
+    <button id="spawnButton" onclick="moveText()">Paina tästä</button>
+    <script>
+        function moveText(){
+            document.getElementById('screenText').style.fontSize = '32px';
+            document.getElementById('spawnButton').style.visibility = 'collapse';
+        }
+    </script>
+</body>
+</html>
