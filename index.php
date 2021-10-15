@@ -11,7 +11,13 @@
     <title>testing</title>
 </head>
 <body>
-    
+
 </body>
 </html>
->>>>>>> 14c206d82ec98f64e7e387c0dab2f752a02ea410
+
+
+<?php print('Yo-yo-yo!'); ?>
+
+<?php include_once("src/index.html"); ?>
+<?php echo ("eehele"); ?>
+
