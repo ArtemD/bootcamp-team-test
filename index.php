@@ -1,5 +1,7 @@
 <?php print('Yo!'); ?>
 <?php include_once("src/index.html"); ?>
+<?php include_once("lanka palaa");?>
+<?php include_once("argh");?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,3 +14,4 @@
     
 </body>
 </html>
+>>>>>>> 14c206d82ec98f64e7e387c0dab2f752a02ea410
