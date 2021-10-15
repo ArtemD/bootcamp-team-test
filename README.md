@@ -12,10 +12,4 @@ Testimuutos
 LUE TÄMÄ!!!!!!!!
 testi
 
-♫ Can't push this ♫
-
-LUE TÄMÄ!!!!!!!!
-
-En lue. >:(
-# Test
-This is a test line showing how git can automatically resolve merge conflicts
+Voittaa tämä perforcen kanssa tappelun
