@@ -1,15 +1,15 @@
 # bootcamp-team-test
-HEAD
-HEAD
+
 Testing GitHub with Bootcamp 2021 group
-HEAD
+
 Testimuutos
 LUE TÄMÄ!!!!!!!!
 Niin tässä lisää...Hahaa
 
-#Testing again..
+# Testing again..
 
-#LankaPalaajälleen
+# LankaPalaajälleen
+
 
 Testing GitHub with Bootcamp 2021 group. The test demonstrates problems occuring with commits in group development.
 
@@ -44,8 +44,7 @@ Ok
 
 # Test
 This is a test line showing how git can automatically resolve merge conflicts
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 =======
 
 =======
