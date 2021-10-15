@@ -1,4 +1,4 @@
-
+<?php echo "Hello world!"; ?>
 <?php print('Yo!'); ?>
 <?php include_once("src/index.html"); ?>
 <!DOCTYPE html>
